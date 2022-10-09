@@ -1,4 +1,4 @@
-
+//Cambio de codigo java para pregunta de merge en la evaluacion
 public class App {
     static InputData inputs = new InputData();
     static Atm atm = new Atm();
